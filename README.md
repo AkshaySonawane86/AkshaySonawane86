@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Akshay Sonawane</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>, I'm Akshay Sonawane</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaysonawane86&label=Profile%20views&color=0e75b6&style=flat" alt="akshaysonawane86" /> </p>
+
+<img align="right" alt="coding" width="450" src="https://www.hamyarit.com/wp-content/uploads/2019/02/programmers-1.gif-hamyarit.com-programmers-1.gif">
 
 - 🌱 I’m currently learning **full stack developer**
 
