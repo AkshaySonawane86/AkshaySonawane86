@@ -7,6 +7,8 @@
 ### 🚀 Full Stack Developer | Java Specialist | Tech Enthusiast
 I am a passionate **Full Stack Developer** based in India with a strong foundation in building scalable web and mobile applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
+🌐 **Check out my full work:** [Live Portfolio](https://akshaysonawane86.github.io/akshay-portfolio/)
+
 ---
 
 ### 🛠️ Professional Expertise
@@ -18,10 +20,11 @@ I am a passionate **Full Stack Developer** based in India with a strong foundati
 ---
 
 ### 📂 Key Projects & Achievements
-- 📜 **Certified Java Developer**
-- 💼 Created a **CRM System**, **Messenger App**, **Expense Tracker**, and **Invoice Generator**.
-- 🛠️ Currently exploring advanced **Spring Boot** microservices and **Flutter** integrations.
-- 🎨 Passionate about **Charcoal Pencil Art** and **Anatomy Drawing** (Check out my creative side!).
+- 📜 **Certified Java Full Stack Developer** (B.Tech in Electrical Engineering).
+- 📈 **Future Price Forecasting App:** Developed a robust web application using Java, Spring MVC, and MySQL to forecast product prices based on historical data.
+- 💼 Built various utility applications including a CRM System, Messenger App, and Expense Tracker.
+- 🌱 **Currently Exploring:** Upskilling in AI-driven development tools and experimenting with OCR for extracting text/JSON from regional language documents.
+- 🎨 **Beyond the Code:** Passionate about charcoal pencil art and studying anatomy to improve imagination-based drawing. 
 
 ---
 
@@ -37,9 +40,10 @@ I am a passionate **Full Stack Developer** based in India with a strong foundati
 
 ### 📫 Let's Connect!
 <p align="left">
-  <a href="mailto:akshays181999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/akshay-sonawane-coder"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/akshays_86_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://akshaysonawane86.github.io/akshay-portfolio/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:akshays181999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/akshay-sonawane-coder"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/akshays_86_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 <p align="left"> 
